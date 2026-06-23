@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋🏾 Hi, I'm Refentse Maleho
 
-<!--
-**RefentseMaleho/RefentseMaleho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at WeThinkCode_ with 2+ years experiece in Robotics.
+💻 Passionate about Robotics, Software Development and Building Real-World Applications
+🌍 Based in South Africa | Open to Internship and Graduate Opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm an aspiring Robotics Engineer with a strong interest in building reliable and efficient software and robotic solutions.
+
+My journey in technology has allowed me to develop skills in:
+
+* Object-Oriented Programming
+* Software Engineering Principles
+* Backend Development
+* API Development
+* Problem Solving & Debugging
+* Agile Team Collaboration
+
+I enjoy turning ideas into working applications and continuously learning new technologies that improve my development skills.
+
+---
+
+## 🛠️ Tech & Tools
+
+### Languages
+
+* Java
+* Python
+* C++
+* C
+  
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Maven
+* IntelliJ IDEA
+* VS Code
+* Code::Blocks
+* Scratch
+* Arduino
+* Wokwi
+* Thonny
+* AUTO CAD
+* Free CAD
+* JUnit
+* JSON
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: http://linkedin.com/in/refentse-neke-174916270
+* Email: refentsemaleho04@gmail.com
+
+---
+
+🤖 Obsessed with turning ideas to code and code into motion.
